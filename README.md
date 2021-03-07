@@ -33,5 +33,5 @@
 <br>
 
 ### 무엇을 읽을까요 ❓
-
+[읽고 싶은 책을 자유롭게 추천해주세요](https://github.com/rh-tn/dev-reading-records/issues/2)
 * [객체지향의 사실과 오해 - 조영호](http://www.yes24.com/Product/Goods/18249021?OzSrank=1) <img src="https://img.shields.io/badge/-READING-green"> <br>
